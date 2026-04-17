@@ -1,6 +1,6 @@
 export default function ArchivePage() {
   return (
-    <div className="min-h-dvh">
+    <div className="">
       <h2>Archive</h2>
     </div>
   );
