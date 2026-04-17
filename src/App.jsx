@@ -9,7 +9,7 @@ import ErrorPage from "./components/pages/ErrorPage";
 
 function App() {
   return (
-    <>
+    <div className="p-4 bg-white text-black">
       <Header />
 
       <Routes>
@@ -20,7 +20,7 @@ function App() {
       </Routes>
 
       <Footer />
-    </>
+    </div>
   );
 }
 
