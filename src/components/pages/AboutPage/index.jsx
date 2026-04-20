@@ -1,7 +1,7 @@
 export default function AboutPage() {
   return (
-    <div className="flex m-auto max-w-3xl flex-col align-center justify-center gap-4 text-justify p-8">
-      <h2 className="text-xl text-blue-500 font-semibold text-center">About</h2>
+    <div className="flex m-auto max-w-3xl flex-col align-center justify-center gap-6 text-justify p-8">
+      <h2 className="text-3xl text-blue-500 font-semibold text-center pb-2">About</h2>
       <p className="text-lg text-lg/8">
         Hello and welcome to the movie of the day! My name is Jean and I'm a
         Brazillian student of Front-End Development and English. My goal is to
@@ -11,8 +11,8 @@ export default function AboutPage() {
       <p className="text-lg text-lg/8">
         This blog is a way to practice both things. Currently I'm learning React
         Router and this project is a great way to try somethings. At the same
-        time I write a movie reviews everyday to practice my writing skills in
-        English and have a place to save them can be a cool thing to motivate me
+        time I write a movie review everyday to practice my writing skills in
+        English. Have a place to save them can be a cool thing to motivate me
         do better reviews and to see my evolution across the year.
       </p>
 

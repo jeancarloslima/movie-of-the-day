@@ -1,0 +1,36 @@
+import noCountryForOldMenImage from "../../../assets/images/no-country-for-old-men-cover.jpg";
+
+export const reviewsDeFilmes = [
+  {
+    id: "1",
+    title: "No Country for Old Men",
+    author: "Jean Lima",
+    date: "APR 21, 2026",
+    rating: "5",
+    runtime: "1hr 41m",
+    director: "",
+    synopsis: "",
+    trailerURL: "",
+    imageURL: noCountryForOldMenImage,
+    coverURL: "",
+    summary: "No musics, just the violence of a place without any honor.",
+    subtitle: "Onde os velhos não tem vez",
+    text: "Uma verdadeira aula de direção. A decisão de remover quase completamente a trilha sonora cria uma tensão atmosférica absurda. A atuação impecável constrói um dos antagonistas mais assustadores e metódicos da história do cinema, refletindo temas profundos sobre a inevitabilidade e o acaso.",
+  },
+  {
+    id: "2",
+    title: "No Country for Old Men",
+    author: "Jean Lima",
+    date: "15 de Abril, 2026",
+    rating: "5",
+    runtime: "1hr 41m",
+    director: "",
+    synopsis: "",
+    trailerURL: "",
+    imageURL: noCountryForOldMenImage,
+    coverURL: "",
+    summary: "No musics, just the violence of a place without any honor.",
+    subtitle: "Onde os velhos não tem vez",
+    text: "Uma verdadeira aula de direção. A decisão de remover quase completamente a trilha sonora cria uma tensão atmosférica absurda. A atuação impecável constrói um dos antagonistas mais assustadores e metódicos da história do cinema, refletindo temas profundos sobre a inevitabilidade e o acaso.",
+  },
+];

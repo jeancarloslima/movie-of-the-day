@@ -6,6 +6,7 @@ import HomePage from "./components/pages/HomePage";
 import ArchivePage from "./components/pages/ArchivePage";
 import AboutPage from "./components/pages/AboutPage";
 import ErrorPage from "./components/pages/ErrorPage";
+import { reviewsDeFilmes } from "./components/assets/dadosReviews";
 
 function App() {
   return (
@@ -14,7 +15,7 @@ function App() {
 
       <Routes>
         <Route path="/" element={<HomePage />} />
-        <Route path="/archive" element={<ArchivePage />} />
+        <Route path="/archive" element={<ArchivePage reviews={reviewsDeFilmes} />} />
         <Route path="/about" element={<AboutPage />} />
         <Route path="*" element={<ErrorPage />} />
       </Routes>
