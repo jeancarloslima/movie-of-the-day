@@ -14,7 +14,7 @@ function App() {
       <Header />
 
       <Routes>
-        <Route path="/" element={<HomePage />} />
+        <Route path="/" element={<HomePage reviews={reviewsDeFilmes} />} />
         <Route path="/archive" element={<ArchivePage reviews={reviewsDeFilmes} />} />
         <Route path="/about" element={<AboutPage />} />
         <Route path="*" element={<ErrorPage />} />
