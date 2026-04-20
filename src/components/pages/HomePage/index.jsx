@@ -20,7 +20,7 @@ export default function HomePage({ reviews }) {
             />
           ))}
         </ul>
-        <button className="cursor-pointer rounded-lg bg-gray-200 py-2 px-4 mb-8">See all &#62;</button>
+        <button className="cursor-pointer rounded-lg bg-gray-200 py-2 px-4 mb-8 ml-4">See all &#62;</button>
       </div>
     </div>
   );
