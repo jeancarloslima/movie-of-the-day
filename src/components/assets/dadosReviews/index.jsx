@@ -1,4 +1,4 @@
-import noCountryForOldMenImage from "../../../assets/images/no-country-for-old-men-cover.jpg";
+import noCountryForOldMenImage from "../../../assets/images/no-country-for-old-men-image.jpg";
 import noCountryForOldMenCover from "../../../assets/images/no-country-for-old-men-cover.jpg";
 
 export const reviewsDeFilmes = [

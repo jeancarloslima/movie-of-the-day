@@ -15,7 +15,7 @@ export default function Header({ telaAtiva, setTelaAtiva }) {
           Movie Of The Day
         </h1>
       </button>
-      <nav className="flex gap-8 text-xl md:justify-center md:border-t border-gray-300 md:min-w-dvw">
+      <nav className="flex gap-8 text-xl md:justify-center md:border-t border-gray-300 md:min-w-full">
         <Link
           onClick={() => setTelaAtiva("Home")}
           className={`hover:bg-gray-100 pb-2 md:p-2 ${telaAtiva === "Home" ? "border-b-3 font-semibold border-blue-500" : ""}`}

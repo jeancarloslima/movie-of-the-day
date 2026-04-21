@@ -15,7 +15,7 @@ export default function ReviewCard({
         <p className="text-justify w-7/10 md:py-2">{summary}</p>
         <span className="text-sm text-zinc-600 w-7/10">{`${date} * ${author}`}</span>
         <img
-          className="w-2/10 h-[72px] md:w-[160px] sm:h-[80px] md:h-[100px] absolute right-0 top-0 rounded-lg"
+          className="w-2/10 h-[72px] md:w-[160px] sm:h-[80px] md:h-[100px] absolute right-0 top-0 rounded-lg object-cover"
           src={imageURL}
           alt={`${title} image`}
         />
