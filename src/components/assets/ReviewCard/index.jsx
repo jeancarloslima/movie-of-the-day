@@ -9,8 +9,8 @@ export default function ReviewCard({
   imageURL,
 }) {
   return (
-    <article className="w-full max-w-[600px] cursor-pointer relative pb-8 border-b border-gray-300 mb-6">
-      <Link to={`/review/${id}`}>
+    <article className="w-full max-w-[600px] cursor-pointer relative border-b border-gray-300 mb-6">
+      <Link className="block pb-8" to={`/review/${id}`}>
         <h2 className="text-lg font-semibold w-7/10">{`${id}: ${title}`}</h2>
         <p className="text-justify w-7/10 md:py-2">{summary}</p>
         <span className="text-sm text-zinc-600 w-7/10">{`${date} * ${author}`}</span>

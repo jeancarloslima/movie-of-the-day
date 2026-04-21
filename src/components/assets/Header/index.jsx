@@ -10,8 +10,8 @@ export default function Header({ telaAtiva, setTelaAtiva }) {
 
   return (
     <div className="flex flex-col p-4 pb-0 gap-4 border-b border-gray-300 md:gap-1 md:px-0">
-      <button onClick={openHome} className="cursor-pointer">
-        <h1 className="text-2xl font-bold md:text-center md:py-4">
+      <button onClick={openHome} className="cursor-pointer text-left md:text-center">
+        <h1 className="text-2xl font-black md:py-4">
           Movie Of The Day
         </h1>
       </button>
