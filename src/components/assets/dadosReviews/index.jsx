@@ -18,7 +18,7 @@ export const reviewsDeFilmes = [
     text: "Uma verdadeira aula de direção. A decisão de remover quase completamente a trilha sonora cria uma tensão atmosférica absurda. A atuação impecável constrói um dos antagonistas mais assustadores e metódicos da história do cinema, refletindo temas profundos sobre a inevitabilidade e o acaso.",
   },
   {
-    id: "1",
+    id: "2",
     title: "No Country for Old Men",
     author: "Jean Lima",
     date: "APR 21, 2026",
@@ -34,7 +34,7 @@ export const reviewsDeFilmes = [
     text: "Uma verdadeira aula de direção. A decisão de remover quase completamente a trilha sonora cria uma tensão atmosférica absurda. A atuação impecável constrói um dos antagonistas mais assustadores e metódicos da história do cinema, refletindo temas profundos sobre a inevitabilidade e o acaso.",
   },
   {
-    id: "1",
+    id: "3",
     title: "No Country for Old Men",
     author: "Jean Lima",
     date: "APR 21, 2026",
@@ -50,7 +50,7 @@ export const reviewsDeFilmes = [
     text: "Uma verdadeira aula de direção. A decisão de remover quase completamente a trilha sonora cria uma tensão atmosférica absurda. A atuação impecável constrói um dos antagonistas mais assustadores e metódicos da história do cinema, refletindo temas profundos sobre a inevitabilidade e o acaso.",
   },
   {
-    id: "1",
+    id: "4",
     title: "No Country for Old Men",
     author: "Jean Lima",
     date: "APR 21, 2026",
@@ -66,7 +66,7 @@ export const reviewsDeFilmes = [
     text: "Uma verdadeira aula de direção. A decisão de remover quase completamente a trilha sonora cria uma tensão atmosférica absurda. A atuação impecável constrói um dos antagonistas mais assustadores e metódicos da história do cinema, refletindo temas profundos sobre a inevitabilidade e o acaso.",
   },
   {
-    id: "1",
+    id: "5",
     title: "No Country for Old Men",
     author: "Jean Lima",
     date: "APR 21, 2026",
@@ -82,7 +82,7 @@ export const reviewsDeFilmes = [
     text: "Uma verdadeira aula de direção. A decisão de remover quase completamente a trilha sonora cria uma tensão atmosférica absurda. A atuação impecável constrói um dos antagonistas mais assustadores e metódicos da história do cinema, refletindo temas profundos sobre a inevitabilidade e o acaso.",
   },
   {
-    id: "1",
+    id: "6",
     title: "No Country for Old Men",
     author: "Jean Lima",
     date: "APR 21, 2026",
@@ -98,7 +98,7 @@ export const reviewsDeFilmes = [
     text: "Uma verdadeira aula de direção. A decisão de remover quase completamente a trilha sonora cria uma tensão atmosférica absurda. A atuação impecável constrói um dos antagonistas mais assustadores e metódicos da história do cinema, refletindo temas profundos sobre a inevitabilidade e o acaso.",
   },
   {
-    id: "1",
+    id: "7",
     title: "No Country for Old Men",
     author: "Jean Lima",
     date: "APR 21, 2026",

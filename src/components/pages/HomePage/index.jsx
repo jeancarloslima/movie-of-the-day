@@ -1,7 +1,19 @@
+import { useNavigate } from "react-router";
 import ReviewCard from "../../assets/ReviewCard";
 
-export default function HomePage({ reviews }) {
+export default function HomePage({ reviews, setTelaAtiva }) {
+  const navigate = useNavigate();
   const filteredReviews = reviews.slice(-6);
+
+  const openArchive = () => {
+    navigate("/archive");
+    setTelaAtiva("Archive");
+
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth'
+    })
+  }
 
   return (
     <div className="mx-auto w-full max-w-[632px]">
@@ -20,7 +32,7 @@ export default function HomePage({ reviews }) {
             />
           ))}
         </ul>
-        <button className="cursor-pointer rounded-lg bg-gray-200 py-2 px-4 mb-8 ml-4">See all &#62;</button>
+        <button onClick={openArchive} className="cursor-pointer rounded-lg bg-gray-200 py-2 px-4 mb-8 ml-4 hover:bg-blue-500 hover:text-white">See all &#62;</button>
       </div>
     </div>
   );
