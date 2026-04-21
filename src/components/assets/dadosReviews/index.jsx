@@ -7,7 +7,7 @@ export const reviewsDeFilmes = [
     author: "Jean Lima",
     date: "APR 21, 2026",
     rating: "5",
-    runtime: "1hr 41m",
+    duration: "1hr 41m",
     director: "",
     synopsis: "",
     trailerURL: "",
