@@ -3,7 +3,7 @@ import ReviewCard from "../../assets/ReviewCard";
 export default function ArchivePage({ reviews }) {
   return (
     <div className="">
-      <ul className="flex flex-col-reverse justify-center items-center px-4 py-8">
+      <ul className="flex flex-col-reverse justify-center items-center py-8">
         {reviews.map((item) => (
           <ReviewCard
             key={item.id}
