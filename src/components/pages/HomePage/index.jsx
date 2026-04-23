@@ -4,8 +4,8 @@ import ReviewCard from "../../assets/ReviewCard";
 export default function HomePage({ reviews, setTelaAtiva }) {
   const navigate = useNavigate();
   const filteredReviews = reviews.slice(-11);
-  const firstPart = filteredReviews.slice(0, 6);
-  const secondPart = filteredReviews.slice(6);
+  const firstPart = filteredReviews.slice(0, 6).reverse();
+  const secondPart = filteredReviews.slice(6).reverse();
 
   const openArchive = () => {
     navigate("/archive");
@@ -18,9 +18,9 @@ export default function HomePage({ reviews, setTelaAtiva }) {
   };
 
   return (
-    <div className="mx-auto w-full max-w-[632px]">
+    <div className="mx-auto w-full max-w-[832px]">
       <div>
-        <ul className="flex flex-col-reverse justify-center items-center pt-8 pb-2 sm:grid sm:grid-cols-[3fr_2fr] sm:grid-rows-2 ">
+        <ul className="flex flex-col justify-center items-center sm:h-[600px] pt-8 pb-2 sm:grid sm:grid-cols-[4fr_2fr] sm:grid-rows-2 sm:gap-4 sm:pb-6 sm:px-4 sm:border-b border-gray-300">
           {secondPart.map((item, index) => (
             <ReviewCard
               index={index}
@@ -37,7 +37,7 @@ export default function HomePage({ reviews, setTelaAtiva }) {
       </div>
       <div>
         <h2 className="text-xl font-semibold pl-4 pt-4">Recent Posts</h2>
-        <ul className="flex flex-col-reverse justify-center items-center pt-8 pb-2">
+        <ul className="flex flex-col justify-center items-center pt-8 pb-2">
           {firstPart.map((item) => (
             <ReviewCard
               key={item.id}
