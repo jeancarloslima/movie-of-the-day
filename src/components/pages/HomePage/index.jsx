@@ -16,7 +16,7 @@ export default function HomePage({ reviews, setTelaAtiva }) {
   };
 
   return (
-    <div className="mx-auto w-full max-w-[770px] lg:max-w-[1000px]">
+    <div className="mx-auto w-full max-w-[770px] lg:max-w-[1100px]">
       <div>
         <ul className="flex flex-col justify-center items-center sm:hidden lg:grid lg:h-[600px] pb-8 lg:pt-8 lg:grid-cols-[1fr_2fr_1fr] grid-flow-dense lg:grid-rows-2 lg:gap-4 lg:pb-6 lg:px-4 lg:border-b border-gray-300">
           {filteredReviews.slice(6).reverse().map((item, index) => (
