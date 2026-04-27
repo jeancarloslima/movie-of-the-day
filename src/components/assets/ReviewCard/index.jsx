@@ -16,7 +16,7 @@ export default function ReviewCard({
       <Link className={`w-full h-full grid gap-2 pb-6 ${index !== undefined ? "sm:grid-cols-1 sm:pb-0" : ""} ${index === 0 ? "grid-cols-1 sm:gap-12" : "grid-cols-[3fr_1fr]"}`} to={`/review/${id}`}>
         <div className={`${index === 0 ? "sm:text-center sm:max-w-[360px] sm:mx-auto" : ""}`}>
           <h2
-            className={`font-semibold ${index === 0 ? "text-2xl px-4 sm:px-0" : "text-lg"}`}
+            className={`font-semibold ${index !== undefined ? "sm:truncate" : ""} ${index === 0 ? "text-2xl px-4 sm:px-0" : "text-lg"}`}
           >{`${id}: ${title}`}</h2>
           <p className={`text-justify ${index !== undefined ? "sm:truncate" : ""} ${index === 0 ? "sm:text-center sm:text-lg py-2 px-4 sm:px-0 sm:py-4" : ""}`}>{summary}</p>
           <span

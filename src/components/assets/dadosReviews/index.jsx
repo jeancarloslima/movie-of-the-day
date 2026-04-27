@@ -164,7 +164,7 @@ export const reviewsDeFilmes = [
   },
   {
     id: "11",
-    title: "No Country For Old Men",
+    title: "Once Upon A Time In Hollywood",
     author: "Jean Lima",
     date: "APR 21, 2026",
     rating: "5",
