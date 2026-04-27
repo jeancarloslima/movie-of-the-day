@@ -7,7 +7,7 @@ import ArchivePage from "./components/pages/ArchivePage";
 import AboutPage from "./components/pages/AboutPage";
 import ErrorPage from "./components/pages/ErrorPage";
 import ReviewPage from "./components/pages/ReviewPage";
-import ScrollToTop from "./components/assets/scrollToTop";
+import ScrollToTop from "./components/assets/ScrollToTop";
 
 function App() {
   return (
