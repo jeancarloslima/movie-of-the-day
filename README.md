@@ -21,6 +21,10 @@ O projeto consolida o uso de navegação por rotas no React e estilização avan
 - **[React Router]** - Navegação e roteamento (SPA)
 - **[Tailwind CSS]** - Estilização responsiva e moderna
 
+## 🔗 Acesse o Projeto
+
+- https://movie-of-the-day-alpha.vercel.app/
+
 ## 🚀 Como executar localmente
 
 1. Clone o repositório:
