@@ -2,6 +2,8 @@
 
 Uma aplicação voltada para apaixonados por cinema, que garante uma crítica cinematográfica diferente todos os dias da semana em inglês. Perfeito para quem tem uma rotina de assistir a filmes e quer descobrir grandes obras, de forma dinâmica e visualmente atrativa.
 
+<img width="1319" height="953" alt="movie-of-the-day-print" src="https://github.com/user-attachments/assets/49f48397-d293-49f8-8ff5-60e80ddf6284" />
+
 ## 💻 Sobre o Projeto
 
 O projeto consolida o uso de navegação por rotas no React e estilização avançada com utilitários CSS. Através desta aplicação, é possível navegar por diferentes recomendações e detalhes cinematográficos com uma interface moderna. Foco na aplicação do React Router e Tailwind.
