@@ -1,9 +1,9 @@
 import noCountryForOldMenImage from "../../../assets/images/no-country-for-old-men-image.jpg";
+import theKingsManImage from "../../../assets/images/the-kingsman-image.jpg";
+import extractionImage from "../../../assets/images/extraction-image.jpg";
+import bulletTrainImage from "../../../assets/images/bullet-train-image.jpg";
 import onceUponATimeInHollywoodImage from "../../../assets/images/once-upon-a-time-in-hollywood-image.jpg";
 import jawsImage from "../../../assets/images/jaws-image.jpg";
-import bulletTrainImage from "../../../assets/images/bullet-train-image.jpg";
-import extractionImage from "../../../assets/images/extraction-image.jpg";
-import theKingsManImage from "../../../assets/images/the-kingsman-image.jpg";
 import theDepartedImage from "../../../assets/images/the-departed-image.jpg";
 import fountainOfYouthImage from "../../../assets/images/fountain-of-youth-image.jpg";
 import phantomThreadImage from "../../../assets/images/phantom-thread-image.jpg";
@@ -11,6 +11,9 @@ import nurembergImage from "../../../assets/images/nuremberg-image.jpg";
 import sendHelpImage from "../../../assets/images/send-help-image.jpg";
 import projectHailMaryImage from "../../../assets/images/project-hail-mary-image.jpg";
 import noCountryForOldMenCover from "../../../assets/images/no-country-for-old-men-cover.jpg";
+import theKingsManCover from "../../../assets/images/the-kingsman-cover.jpg";
+import extractionCover from "../../../assets/images/extraction-cover.jpg";
+import bulletTrainCover from "../../../assets/images/bullet-train-cover.jpg";
 import onceUponATimeInHollywoodCover from "../../../assets/images/once-upon-a-time-in-hollywood-cover.jpg";
 import jawsCover from "../../../assets/images/jaws-cover.jpg";
 import theDepartedCover from "../../../assets/images/the-departed-cover.jpg";
@@ -25,7 +28,7 @@ export const reviewsDeFilmes = [
     id: "1",
     title: "No Country For Old Men",
     author: "Jean Lima",
-    date: "APR 21, 2026",
+    date: "APR 29, 2026",
     rating: "5",
     duration: "122 mins",
     director: "Ethan Coen & Joel Coen",
@@ -35,55 +38,55 @@ export const reviewsDeFilmes = [
     coverURL: noCountryForOldMenCover,
     summary: "No musics, just the violence of a place without any honor.",
     subtitle: "An Action Masterpiece",
-    text: "<p>Texto e bla bla bla</p> <p>Texto e bla bla bla</p> <p>Texto e bla bla bla</p>"
+    text: "<p>Ok, we have finally reached the day I was more afraid: the day I wish I had more tons of English knowing and vocabulary to express what I feel and think about this movie. </p> <p> It's not the first time I come here to talk about one 5-star film. As I am rewatching some movies that I love but long time didn't watch (and some movies that got old like wine in my mind and I was just waiting a revisit to give 5 stars). But it's the first time I have so many things to talk about and my lack of knowing (and time) will block me. This movie is probably the second movie that I had seen more videos, analysis and theories about (just behind Basterds Inglorious), and luckily it didn't get worse my experience. I had seen some scenes a lot of times, but watch this time undestandig almost everything was better than expected. </p> <p> Well, I don't have much time, so let's to the main points. First, this acting from Javier Bardem is so insanelly good, that like the Joker from Heath Ledger, when I watch the movie, I don't see the actor, it's like a character that only exists in the movie, not a actor doing his job. </p> <p>Second, when that movement of hype with psychopaths like Patrick Bateman and Dammer because of the movies and series become, I thought that Chigurh was going to be one of that characters, but I hadn't seen edits about him. Maybe because he is strange in a different way, like the people need someone at least a few beautiful. By the way, this is one theme that deserves a full review about. This movement of young people worshiping assassins and trying to redeem villains. </p> <p>Third, I don't have more time... Probably I'll rewatch this movie this year and I'll do a review again focusing on the main themes and the movie, because I got so different things to talk, that ended talking about nothing.</p>"
   },
   {
     id: "2",
-    title: "No Country For Old Men",
+    title: "The King's Man",
     author: "Jean Lima",
-    date: "APR 21, 2026",
-    rating: "5",
-    duration: "122 mins",
-    director: "Ethan Coen & Joel Coen",
-    synopsis: "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide.",
-    trailerURL: "https://youtu.be/38A__WT3-o0?si=0FHhglEXw6OlQxne",
-    imageURL: noCountryForOldMenImage,
-    coverURL: noCountryForOldMenCover,
-    summary: "No musics, just the violence of a place without any honor.",
-    subtitle: "An Action Masterpiece",
-    text: "Uma verdadeira aula de direção. A decisão de remover quase completamente a trilha sonora cria uma tensão atmosférica absurda. A atuação impecável constrói um dos antagonistas mais assustadores e metódicos da história do cinema, refletindo temas profundos sobre a inevitabilidade e o acaso.",
+    date: "APR 30, 2026",
+    rating: "3",
+    duration: "131 mins",
+    director: "Matthew Vaughn",
+    synopsis: "As a collection of history’s worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.",
+    trailerURL: "https://www.youtube.com/embed/5zdBG-iGfes?si=jeyc5MsNloDrhXLJ",
+    imageURL: theKingsManImage,
+    coverURL: theKingsManCover,
+    summary: "Super bad, but cool sometimes",
+    subtitle: "Some good scenes",
+    text: "<p>Revisiting a film again, and I have revisited this franchise several times. But this time was not my idea, my brother likes so much this third film and wanted to revisit. I'm a fan of the franchise, but the movies 2 and 3 get worse every time I revisit them, in the other hand, the first film just gets better. </p> <p>I'm a big fan of spy movies (maybe one of my favotires genres) and most of them are really easy to watch and full of action, what make them easy to revisit, and Kingsman's franchise is not an exception. The first movie is really a masterpiece of spy movies for me. I love everything about that movie, but just the scene of the church is enough for the love I have for it. </p> <p> And then we got two sequels, that I really like, I like the universe, some actions scenes and akward ideas, but they are not even close the first movie. And just this for today, I have more things to say, but my time is very short </p>",
   },
   {
     id: "3",
-    title: "No Country For Old Men",
+    title: "Extraction",
     author: "Jean Lima",
-    date: "APR 21, 2026",
-    rating: "5",
-    duration: "122 mins",
-    director: "Ethan Coen & Joel Coen",
-    synopsis: "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide.",
-    trailerURL: "https://youtu.be/38A__WT3-o0?si=0FHhglEXw6OlQxne",
-    imageURL: noCountryForOldMenImage,
-    coverURL: noCountryForOldMenCover,
-    summary: "No musics, just the violence of a place without any honor.",
-    subtitle: "Onde os velhos não tem vez",
-    text: "Uma verdadeira aula de direção. A decisão de remover quase completamente a trilha sonora cria uma tensão atmosférica absurda. A atuação impecável constrói um dos antagonistas mais assustadores e metódicos da história do cinema, refletindo temas profundos sobre a inevitabilidade e o acaso.",
+    date: "MAY 1, 2026",
+    rating: "3",
+    duration: "116 mins",
+    director: "Sam Hargrave",
+    synopsis: "A hardened gun-for-hire’s latest mission becomes a soul-searching race to survive when he’s sent into Bangladesh to rescue a drug lord’s kidnapped son.",
+    trailerURL: "https://www.youtube.com/embed/L6P3nI6VnlY?si=wyAZQ6iDf0U6qlmK",
+    imageURL: extractionImage,
+    coverURL: extractionCover,
+    summary: "nice action sequences, what is enough. ",
+    subtitle: "A nice one-take scene",
+    text: "<p>One more revisit to the list. This is the type of movie that is okay but I specific scene makes me want to watch again. Extraction is just a cliché story and I think that most of the time it's below a okay movie, the things are not really developed, nothing really interesting is happing most of the time and it is at most a okay movie after the sequence shot. And the second movie is exactly like this, that prison scene gives me goosebumps from how good it is, but it's just this. The rest is boring or just okay. </p> <p>As I quoted recently, this is very different from Kinsgman: the entire movie is good, but the sequence shot turns into excellent. </p>",
   },
   {
     id: "4",
-    title: "Jaws",
+    title: "Bullet Train",
     author: "Jean Lima",
     date: "MAY 4, 2026",
-    rating: "4",
-    duration: "124 mins",
-    director: "Steven Spielberg",
-    synopsis: "When the seaside community of Amity finds itself under attack by a dangerous great white shark, the town’s chief of police, a young marine biologist, and a grizzled shark hunter embark on a desperate quest to kill the beast before it strikes again.",
-    trailerURL: "https://www.youtube.com/embed/sz6rcIZRYLc?si=us8hVvNpXrShbTpn",
-    imageURL: jawsImage,
-    coverURL: jawsCover,
-    summary: "An absolute masterpiece of suspense.",
-    subtitle: "SHARKS!",
-    text: "<p>Similar with 'Once Upon A Time In Hollywood', it's my second time watching this film, but it's like the first, because the real first time was a long time ago. I was expecting it to be boring or very slow, and I was completely surprised by a very good film that kept me totally interested by from beginning to end. </p> <p>I knew that it was a good movie even if I thought that it was slow, and I knew its importance for cinema and for Spielberg. Even so, I was expecting something more boring and slow, and it wasn't.</p> <p>I really love the vibe of both parts of the movie, the first in the city with the police trying to solve the situation, and the second with the trio trying to hunt the shark. It's not scary in nowadays but it's very fun. </p> <p>PS: Is really impressive watch the backstages and figure how Spielberg made this classic in the era of practical effects. By the way, this era is sorely missed, most of films today are stuffed with CGI, giving that look of artificial. </p>",
+    rating: "4.5",
+    duration: "126 mins",
+    director: "David Leitch",
+    synopsis: "Unlucky assassin Ladybug is determined to do his job peacefully after one too many gigs gone off the rails. Fate, however, may have other plans, as Ladybug’s latest mission puts him on a collision course with lethal adversaries from around the globe—all with connected, yet conflicting, objectives—on the world’s fastest train.",
+    trailerURL: "https://www.youtube.com/embed/0IOsk2Vlc4o?si=CwJFOBKZjLYTwthS",
+    imageURL: bulletTrainImage,
+    coverURL: bulletTrainCover,
+    summary: "R.I.P Tangerine.",
+    subtitle: "Tons of fun",
+    text: "<p>One more revisit to a masterpiece of action. I don't remember the year of release, but I remeber that Bullet Train was on my top 3 movies of that year. It's really amazing in all the aspects and one of the most rewatchable movies I know. I might have watched this more than 4 times. </p> <p>Resuming (by the little time available), all this excentric characters interacting and all their stories connecting along the movie is really good. The action and characters are great, the comedy is good, the script connects everything brightly well and it also has a very good final message (and great samurais' things). </p> <p>I know that it has problems (and revisiting yesterday I figure out many that I didn't yet), but it's so likeable and cool, that I just want to turn my brain off and enjoy this trip. </p>",
   },
   {
     id: "5",
@@ -92,14 +95,14 @@ export const reviewsDeFilmes = [
     date: "MAY 5, 2026",
     rating: "4",
     duration: "162 mins",
-    director: "Ethan Coen & Joel Coen",
-    synopsis: "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide.",
-    trailerURL: "https://youtu.be/38A__WT3-o0?si=0FHhglEXw6OlQxne",
+    director: "Quentin Tarantino",
+    synopsis: "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski…",
+    trailerURL: "https://www.youtube.com/embed/ELeMaP8EPAA?si=fXrzFD_Q0AknU_3L",
     imageURL: onceUponATimeInHollywoodImage,
     coverURL: onceUponATimeInHollywoodCover,
-    summary: "No musics, just the violence of a place without any honor.",
-    subtitle: "Onde os velhos não tem vez",
-    text: "Uma verdadeira aula de direção. A decisão de remover quase completamente a trilha sonora cria uma tensão atmosférica absurda. A atuação impecável constrói um dos antagonistas mais assustadores e metódicos da história do cinema, refletindo temas profundos sobre a inevitabilidade e o acaso.",
+    summary: "Excellent, but I don't understand the hype. ",
+    subtitle: "A good time in Hollywood",
+    text: "<p>Well, it's a Tarantion movie, so obviously, it's amazing in all the aspects. This is the second time I've watched this movie, but the first doesn't count, because I've watched just the beggining and the ending, sleeping for more than 90 minutes of movie. And just to explain, this is not related with the quality of the film, just how tired I was at that day. So I was a little excited to watch the entire movie for the first time and have a completely new Tarantino's movie to watch (right now, the only I didn't watch is Jackie Brown). </p> <p>And the movie is amazing, mainly this vibe os 70s hollywood and this famous people at their rising. It's a really good adventure in Hollywood and also a great tribute to its prime. The movie has a lot of scenes that become memes and it's very funny to recognize them while watching. But the best part of the film (and the most famous, I think) it's our protagonists destroying Manson's group and stopping the tragedy that sadly happened in real life. </p> <p>It's a really amazing movie, but I really don't undestand all the hype. For me, it's not even close to the best Tarantino movies. </p>",
   },
   {
     id: "6",
