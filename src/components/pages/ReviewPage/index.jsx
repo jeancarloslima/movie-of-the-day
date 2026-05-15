@@ -38,8 +38,8 @@ export default function ReviewPage({ reviews }) {
         <h4 className="text-2xl font-bold">Sinopsis:</h4>
         <p className="pb-4 pt-2 text-lg text-lg/7 text-justify">{filme.synopsis}</p>
         <iframe className="w-full h-[30vh] md:h-[410px] rounded-lg my-4" src={filme.trailerURL} allowFullScreen title="Embedded youtube" />
-        <h3 className="text-2xl font-bold pt-4">{filme.subtitle}</h3>
-        <div dangerouslySetInnerHTML={{ __html: filme.text}}></div>
+        <h3 className="text-2xl font-bold py-4">{filme.subtitle}</h3>
+        <div className="flex flex-col gap-3 text-justify text-lg" dangerouslySetInnerHTML={{ __html: filme.text}}></div>
       </div>
     </div>
   );
